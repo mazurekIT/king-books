@@ -24,6 +24,82 @@ main {
     display: flex;
 }
 
+.dashboard {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 1rem;
+    background: linear-gradient(to right top,
+            rgba(255, 255, 255, 0.7),
+            rgba(255, 255, 255, 0.3));
+    border-radius: 2rem;
+    /* max-height: 80vh; */
+}
+
+.link {
+    display: flex;
+    /* margin: 2rem 0; */
+    padding: 2rem 1rem;
+    align-items: center;
+}
+
+.link h2 {
+    padding: 0 1rem;
+}
+
+
+.pro {
+    background: linear-gradient(to top right, #5c258d, #4389a2);
+    border-radius: 1rem;
+    padding: 0.5rem;
+}
+
+
+
+
+
+.books {
+    flex: 2;
+    padding: 1rem;
+    /* max-height: 80vh; */
+    /* overflow: hidden */
+}
+
+
+
+.user img {
+    height: 150px;
+    border-radius: 50%;
+    box-shadow: 0 0 8px #5c258d;
+}
+
+.link img,
+.pro img,
+.book img {
+    height: 40px;
+}
+
+.book {
+    display: flex;
+}
+
+.book-info {
+    flex: 1;
+    /* display: flex; */
+}
+
+
+.titles {
+    display: flex;
+    align-items: center;
+}
+
+
+
+
 .circle {
     width: 15rem;
     height: 15rem;
@@ -43,15 +119,4 @@ main {
 .secound {
     bottom: 3%;
     right: 7.5%;
-}
-
-.user img {
-    height: 150px;
-    border-radius: 50%;
-}
-
-.link img,
-.pro img,
-.book img {
-    height: 40px;
 }
