@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main {
+    min-height: 100vh;
+    background: linear-gradient(to right, #5c258d, #4389a2);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.glass {
+    min-height: 80vh;
+    width: 70%;
+    background: linear-gradient(to right top,
+            rgba(255, 255, 255, 0.7),
+            rgba(255, 255, 255, 0.3));
+    border-radius: 2rem;
+    z-index: 3;
+    backdrop-filter: blur(2rem);
+}
+
+.circle {
+    width: 15rem;
+    height: 15rem;
+    background: linear-gradient(to right top,
+            rgba(255, 255, 255, 0.5),
+            rgba(255, 255, 255, 0.1));
+    border-radius: 50%;
+    position: absolute;
+
+}
+
+.first {
+    top: 3%;
+    left: 7.5%;
+}
+
+.secound {
+    bottom: 3%;
+    right: 7.5%;
+}
