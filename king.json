@@ -1,0 +1,496 @@
+{
+    "Stephen King": {
+        "powieści": [{
+                "tytuł": "Carrie",
+                "rok": "1974"
+            },
+            {
+                "tytuł": "Miasteczko Salem",
+                "tytuł oryginalny": "Salem’s Lot",
+                "rok": "1975"
+            }, {
+                "tytuł": "Lśnienie",
+                "drugi tytuł": "Jasność",
+                "tytuł oryginalny": "The Shining",
+                "rok": "1977"
+            }, {
+                "tytuł": "Bastion",
+                "tytuł oryginalny": "The Stand",
+                "rok": "1978"
+            }, {
+                "tytuł": "Martwa strefa",
+                "drugi tytuł": "Strefa śmierci",
+                "tytuł oryginalny": "The Dead Zone",
+                "rok": "1979"
+            }, {
+                "tytuł": "Podpalaczka",
+                "tytuł oryginalny": "Firestarter",
+                "rok": "1980"
+            }, {
+                "tytuł": "Cujo",
+                "rok": "1981"
+            }, {
+                "tytuł": "Mroczna Wieża I: Roland",
+                "tytuł oryginalny": "The Dark Tower: The Gunslinger",
+                "rok": "1982"
+            }, {
+                "tytuł": "Christine",
+                "rok": "1983"
+            }, {
+                "tytuł": "Rok wilkołaka",
+                "tytuł oryginalny": "Cycle of the Werewolf",
+                "rok": "1983"
+            }, {
+                "tytuł": "Smętarz dla zwierzaków",
+                "drugi tytuł": "Cmętarz zwieżąt",
+                "tytuł oryginalny": "Pet Sematary",
+                "rok": "1983"
+            }, {
+                "tytuł": "Talizman",
+                "tytuł oryginalny": "The Talisman",
+                "współautor": "Peter Straub",
+                "rok": "1984"
+            }, {
+                "tytuł": "To",
+                "tytuł oryginalny": "It",
+                "rok": "1986"
+            }, {
+                "tytuł": "Mroczna Wieża II: Powołanie trójki",
+                "tytuł oryginalny": "The Dark Tower: Drawing of the Three",
+                "rok": "1987"
+            }, {
+                "tytuł": "Oczy smoka",
+                "tytuł oryginalny": "Eyes of the Dragon",
+                "rok": "1987"
+            }, {
+                "tytuł": "Stukostrachy",
+                "tytuł oryginalny": "The Tommyknockers",
+                "rok": "1987"
+            }, {
+                "tytuł": "Misery",
+                "rok": "1987"
+            }, {
+                "tytuł": "Mroczna połowa",
+                "tytuł oryginalny": "The Dark Half",
+                "rok": "1989"
+            }, {
+                "tytuł": "Bastion",
+                "opis": "Wersja bez skrótów",
+                "rok": "1990"
+            }, {
+                "tytuł": "Mroczna Wieża III: Ziemie jałowe",
+                "tytuł oryginalny": "The Dark Tower: The Waste Lands",
+                "rok": "1991"
+            }, {
+                "tytuł": "Sklepik z marzeniami",
+                "tytuł oryginalny": "The Needful Things",
+                "rok": "1991"
+            }, {
+                "tytuł": "Gra Geralda",
+                "tytuł oryginalny": "Gerald’s Game",
+                "rok": "1992"
+            }, {
+                "tytuł": "Dolores Claiborne",
+                "rok": "1993"
+            }, {
+                "tytuł": "Bezsenność",
+                "tytuł oryginalny": "Insomnia",
+                "rok": "1994"
+            }, {
+                "tytuł": "Rose Madder",
+                "rok": "1995"
+            }, {
+                "tytuł": "Zielona mila",
+                "tytuł oryginalny": "The Green Mile",
+                "opis": "książka wydana została również w sześciu osobnych tomach",
+                "rok": "1996"
+            }, {
+                "tytuł": "Desperacja",
+                "tytuł oryginalny": "Desperation",
+                "rok": "1996"
+            }, {
+                "tytuł": "Mroczna Wieża IV: Czarnoksiężnik i kryształ",
+                "tytuł oryginalny": "The Dark Tower: Wizard & Glass",
+                "rok": "1997"
+            }, {
+                "tytuł": "Worek kości",
+                "tytuł oryginalny": "Bag of Bones",
+                "rok": "1998"
+            }, {
+                "tytuł": "Pokochała Toma Gordona",
+                "tytuł oryginalny": "The Girl who Loved Tom Gordon",
+                "rok": "1999"
+            }, {
+                "tytuł": "Łowca snów",
+                "tytuł oryginalny": "Dreamcatcher",
+                "rok": "2001"
+            }, {
+                "tytuł": "Czarny Dom",
+                "współautor": "Peter Straub",
+                "tytuł oryginalny": "Black House",
+                "rok": "2001"
+            }, {
+                "tytuł": "The Plant",
+                "opis": "Powieść wydana w internecie",
+                "rok": "2000-2001"
+            }, {
+                "tytuł": "Buick 8",
+                "tytuł oryginalny": "From a Buick 8",
+                "rok": "2002"
+            }, {
+                "tytuł": "Mroczna Wieża I: Roland",
+                "opis": "wersja 2003",
+                "tytuł oryginalny": "The Dark Tower: The Gunslinger",
+                "rok": "2003"
+            }, {
+                "tytuł": "Mroczna Wieża V: Wilki z Calla",
+                "tytuł oryginalny": "The Dark Tower: Wolves of the Calla",
+                "rok": "2003"
+            }, {
+                "tytuł": "Mroczna Wieża VI: Pieśń Susannah",
+                "tytuł oryginalny": "The Dark Tower: The Song of Susannah",
+                "rok": "2004"
+            }, {
+                "tytuł": "Mroczna Wieża VII: Mroczna Wieża",
+                "tytuł oryginalny": "The Dark Tower: The Dark Tower",
+                "rok": "2004"
+            }, {
+                "tytuł": "Colorado Kid",
+                "tytuł oryginalny": "The Colorado Kid",
+                "rok": "2005"
+            }, {
+                "tytuł": "Miasteczko Salem",
+                "opis": "nowa wersja",
+                "tytuł oryginalny": "Salem’s Lot",
+                "rok": "2005"
+            }, {
+                "tytuł": "Komórka",
+                "tytuł oryginalny": "Cell",
+                "rok": "2006"
+            }, {
+                "tytuł": "Historia Lisey",
+                "tytuł oryginalny": "Lisey’s Story",
+                "rok": "2006"
+            }, {
+                "tytuł": "Ręka mistrza",
+                "tytuł oryginalny": "Duma Key",
+                "rok": "2008"
+            }, {
+                "tytuł": "Pod kopułą",
+                "tytuł oryginalny": "Under The Dome",
+                "rok": "2009"
+            }, {
+                "tytuł": "Dallas ’63",
+                "tytuł oryginalny": "11/22/63",
+                "rok": "2011"
+            }, {
+                "tytuł": "Mroczna Wieża VIII: Wiatr przez dziurkę od klucza",
+                "tytuł oryginalny": "The Dark Tower: The Wind Through the Keyhole",
+                "rok": "2012"
+            }, {
+                "tytuł": "Joyland",
+                "rok": "2013"
+            }, {
+                "tytuł": "Doktor Sen",
+                "tytuł oryginalny": "Dr. Sleep",
+                "rok": "2013"
+            }, {
+                "tytuł": "Pan Mercedes",
+                "tytuł oryginalny": "Mr. Mercedes",
+                "opis": "pierwsza część cyklu o Billu Hodgesie",
+                "rok": "2014"
+            }, {
+                "tytuł": "Przebudzenie",
+                "tytuł oryginalny": "Revival",
+                "rok": "2014"
+            }, {
+                "tytuł": "Znalezione nie kradzione",
+                "tytuł oryginalny": "Finders Keepers",
+                "opis": "druga część cyklu o Billu Hodgesie",
+                "rok": "2015"
+            }, {
+                "tytuł": "Koniec warty",
+                "tytuł oryginalny": "End of Watch",
+                "opis": "trzecia i ostatnia część cyklu o Billu Hodgesie",
+                "rok": "2016"
+            }, {
+                "tytuł": "Pudełko z guzikami Gwendy",
+                "tytuł oryginalny": "Gwendy's Button Box",
+                "współautor": "Richard Chizmar",
+                "rok": "2017"
+            }, {
+                "tytuł": "Śpiące królewny",
+                "współautor": "Owen King",
+                "rok": "2017"
+            }, {
+                "tytuł": "Outsider",
+                "tytuł oryginalny": "The Outsider",
+                "rok": "2018"
+            }, {
+                "tytuł": "Uniesienie",
+                "tytuł oryginalny": "Elevation",
+                "rok": "2018"
+            }, {
+                "tytuł": "Instytut",
+                "tytuł oryginalny": "The Institute",
+                "rok": "2019"
+            }, {
+                "tytuł": "Later",
+                "rok": "2021"
+            }
+        ],
+        "zbiory nowel i opowiadań": [{
+                "tytuł": "The Bachman Books",
+                "rok": "1985"
+            },
+            {
+                "tytuł": "Nocna zmiana",
+                "tytuł oryginalny": "Night Shift",
+                "rok": "1978"
+            },
+            {
+                "tytuł": "Cztery pory roku",
+                "tytuł oryginalny": "Different Seasons",
+                "rok": "1982"
+            },
+            {
+                "tytuł": "Szkieletowa załoga",
+                "tytuł oryginalny": "Skeleton Crew",
+                "rok": "1985"
+            },
+            {
+                "tytuł": "Czwarta po północy",
+                "tytuł oryginalny": "Four past Midnight",
+                "rok": "1990"
+            },
+            {
+                "tytuł": "Marzenia i koszmary",
+                "tytuł oryginalny": "Nightmares and Dreamscapes",
+                "rok": "1993"
+            },
+            {
+                "tytuł": "Serca Atlantydów",
+                "tytuł oryginalny": "Hearts in Atlantis",
+                "rok": "1999"
+            },
+            {
+                "tytuł": "Wszystko jest względne. 14 mrocznych opowieści",
+                "tytuł oryginalny": "Everything’s Eventual: 14 Dark Tales",
+                "rok": "2002"
+            },
+            {
+                "tytuł": "Po zachodzie słońca",
+                "tytuł oryginalny": "Just After Sunset",
+                "rok": "2008"
+            },
+            {
+                "tytuł": "Czarna bezgwiezdna noc",
+                "tytuł oryginalny": "Full Dark, No Stars",
+                "rok": "2010"
+            },
+            {
+                "tytuł": "Bazar złych snów",
+                "tytuł oryginalny": "The Bazaar of Bad Dreams",
+                "rok": "2015"
+            },
+            {
+                "tytuł": "Jest krew...",
+                "tytuł oryginalny": "If It Bleeds",
+                "rok": "2020"
+            }
+        ],
+        "limitowane wydania opowiadań dostępne w USA": [{
+                "tytuł oryginalny": "People, Places, and Things",
+                "współautor": "Chris Chelsey",
+                "rok": "1963"
+            },
+            {
+                "tytuł oryginalny": "The Star Invaders",
+                "rok": "1964"
+            },
+            {
+                "tytuł oryginalny": "My Pretty Pony",
+                "rok": "1988"
+            },
+            {
+                "tytuł oryginalny": "Dolan’s Cadillac",
+                "rok": "1989"
+            },
+            {
+                "tytuł oryginalny": "Umney’s Last Case",
+                "rok": "1995"
+            },
+            {
+                "tytuł oryginalny": "Six Stories",
+                "rok": "1997"
+            }
+        ],
+        "książki non-fiction": [{
+                "tytuł": "Danse Macabre",
+                "rok": "1980"
+            },
+            {
+                "tytuł": "Jak pisać. Pamiętnik rzemieślnika",
+                "tytuł oryginalny": "On Writing: a memoir of the craft",
+                "rok": "2000"
+            },
+            {
+                "tytuł oryginalny": "Faithful: Two Diehard Boston Red Sox Fans Chronicle the Historic ",
+                "rok": "2004"
+            }
+        ],
+        "komiksy": [{
+                "Mroczna Wieża": [{
+                        "tytuł": "Mroczna Wieża: Narodziny rewolwerowca",
+                        "tytuł oryginalny": "The Dark Tower: Gunslinger Born",
+                        "rok": "2007"
+                    },
+                    {
+                        "tytuł": "Mroczna Wieża: Długa droga do domu",
+                        "tytuł oryginalny": "The Dark Tower: The Long Road Home",
+                        "rok": "2008"
+                    },
+                    {
+                        "tytuł": "Mroczna Wieża: Zdrada",
+                        "tytuł oryginalny": "The Dark Tower: Treachery",
+                        "rok": "2008–2009"
+                    },
+                    {
+                        "tytuł": "Mroczna Wieża: Upadek Gilead",
+                        "tytuł oryginalny": "The Dark Tower: The Fall of Gilead",
+                        "rok": "2009"
+                    },
+                    {
+                        "tytuł": "Mroczna Wieża: Bitwa o Jericho Hills",
+                        "tytuł oryginalny": "The Dark Tower: The Battle of Jericho Hill",
+                        "rok": "2009–2010"
+                    }
+                ]
+            },
+            {
+                "Mroczna Wieża: Rewolwerowiec": [{
+                        "tytuł": "Mroczna Wieża: Początek podróży",
+                        "tytuł oryginalny": "The Dark Tower: The Journey Begins",
+                        "rok": "2010"
+                    },
+                    {
+                        "tytuł": "Mroczna Wieża: Siostrzyczki z Elurii",
+                        "tytuł oryginalny": "The Dark Tower: The Little Sisters of Eluria",
+                        "rok": "2010–2011"
+                    },
+                    {
+                        "tytuł": "Mroczna Wieża: Bitwa o Tull",
+                        "tytuł oryginalny": "The Dark Tower: The Battle of Tull",
+                        "rok": "2011"
+                    },
+                    {
+                        "tytuł oryginalny": "The Dark Tower: The Way Station",
+                        "rok": "2011–2012"
+                    },
+                    {
+                        "tytuł oryginalny": "The Dark Tower: The Man In Black",
+                        "rok": "2012"
+                    },
+                    {
+                        "tytuł oryginalny": "The Dark Tower: Sheemie's Tale",
+                        "rok": "2013"
+                    },
+                    {
+                        "tytuł oryginalny": "The Dark Tower: So Fell Lord Perth",
+                        "rok": "2013"
+                    },
+                    {
+                        "tytuł oryginalny": "The Dark Tower: Evil Ground",
+                        "rok": "2013"
+                    }
+                ]
+            },
+            {
+                "Bastion": [{
+                        "tytuł oryginalny": "The Stand: Captain Tripps",
+                        "rok": "2008–2009"
+                    },
+                    {
+                        "tytuł oryginalny": "The Stand: American Nightmares",
+                        "rok": "2009"
+                    },
+                    {
+                        "tytuł oryginalny": "The Stand: Soul Survivors",
+                        "rok": "2009–2010"
+                    },
+                    {
+                        "tytuł oryginalny": "The Stand: Hardcases",
+                        "rok": "2010"
+                    },
+                    {
+                        "tytuł oryginalny": "The Stand: No Man’s Land",
+                        "rok": "2011"
+                    },
+                    {
+                        "tytuł oryginalny": "The Stand: The Night Has Come",
+                        "rok": "2011"
+                    }
+                ]
+            },
+            {
+                "Inne": [{
+                        "tytuł": "Opowieści makabryczne",
+                        "tytuł oryginalny": "Creepshow",
+                        "rok": "1982"
+                    },
+                    {
+                        "tytuł oryginalny": "N.",
+                        "rok": "2009"
+                    },
+                    {
+                        "tytuł": "Talizman",
+                        "tytuł oryginalny": "The Talisman",
+                        "rok": "2009"
+                    },
+                    {
+                        "tytuł": "Amerykański wampir",
+                        "tytuł oryginalny": "American Vampire",
+                        "rok": "2010"
+                    }
+                ]
+            }
+        ]
+    },
+    "Richard Bachmann": {
+        "powieści": [{
+                "tytuł": "Rage",
+                "rok": "1977"
+            },
+            {
+                "tytuł": "Wielki marsz",
+                "tytuł oryginalny": "The Long Walk",
+                "rok": "1979"
+            },
+            {
+                "tytuł": "Ostatni bastion Barta Dawesa",
+                "tytuł oryginalny": "Roadwork",
+                "rok": "1981"
+            },
+            {
+                "tytuł": "Uciekinier",
+                "tytuł oryginalny": "The Running Man",
+                "rok": "1982"
+            },
+            {
+                "tytuł": "Chudszy",
+                "tytuł oryginalny": "Thinner",
+                "rok": "1984"
+            },
+            {
+                "tytuł": "Regulatorzy",
+                "tytuł oryginalny": "Regulators",
+                "rok": "1996"
+            },
+            {
+                "tytuł": "Blaze",
+                "rok": "2007"
+            }
+        ]
+
+    }
+}
