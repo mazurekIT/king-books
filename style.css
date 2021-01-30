@@ -21,12 +21,13 @@ main {
     border-radius: 2rem;
     z-index: 3;
     backdrop-filter: blur(2rem);
+    display: flex;
 }
 
 .circle {
     width: 15rem;
     height: 15rem;
-    background: linear-gradient(to right top,
+    background: linear-gradient(to right bottom,
             rgba(255, 255, 255, 0.5),
             rgba(255, 255, 255, 0.1));
     border-radius: 50%;
@@ -42,4 +43,15 @@ main {
 .secound {
     bottom: 3%;
     right: 7.5%;
+}
+
+.user img {
+    height: 150px;
+    border-radius: 50%;
+}
+
+.link img,
+.pro img,
+.book img {
+    height: 40px;
 }
