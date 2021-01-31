@@ -40,14 +40,13 @@ p {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: baseline;
+    justify-content: space-between;
     text-align: center;
     padding: 1rem;
     background: linear-gradient(to right top,
             rgba(255, 255, 255, 0.7),
             rgba(255, 255, 255, 0.3));
     border-radius: 2rem;
-    /* max-height: 80vh; */
 }
 
 .user img {
@@ -58,8 +57,7 @@ p {
 
 .link {
     display: flex;
-    /* margin: 2rem 0; */
-    padding: 2rem 1rem;
+    padding: 1rem;
     align-items: center;
 }
 
@@ -83,13 +81,20 @@ p {
 
 .books {
     flex: 2;
-    /* padding: 1rem; */
+    padding-right: 1rem;
     margin: 1rem;
     max-height: 80vh;
-    /* overflow: hidden */
+    overflow: hidden;
+    overflow-y: scroll;
     display: flex;
     flex-direction: column;
-    /* justify-content: space-evenly; */
+}
+
+.books::-webkit-scrollbar {
+    display: block;
+    width: 5px;
+    height: 8px;
+    background-color: #4389a2;
 }
 
 .status {
@@ -165,4 +170,14 @@ p {
 .secound {
     bottom: 3%;
     right: 7.5%;
+}
+
+
+
+
+
+/* CHECKBOX */
+
+.is-read input {
+    font-size: 20px;
 }
