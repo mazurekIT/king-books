@@ -1,1 +1,0 @@
-console.log("king is the best");
