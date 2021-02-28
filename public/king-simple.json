@@ -331,34 +331,31 @@
             "title": "Faithful: Two Diehard Boston Red Sox Fans Chronicle the Historic ",
             "year": "2004"
         }, {
-            "books": [{
-                "title": "Rage",
-                "year": "1977"
-            }, {
-                "polish title": "Wielki marsz",
-                "title": "The Long Walk",
-                "year": "1979"
-            }, {
-                "polish title": "Ostatni bastion Barta Dawesa",
-                "title": "Roadwork",
-                "year": "1981"
-            }, {
-                "polish title": "Uciekinier",
-                "title": "The Running Man",
-                "year": "1982"
-            }, {
-                "polish title": "Chudszy",
-                "title": "Thinner",
-                "year": "1984"
-            }, {
-                "polish title": "Regulatorzy",
-                "title": "Regulators",
-                "year": "1996"
-            }, {
-                "title": "Blaze",
-                "year": "2007"
-            }]
-
+            "title": "Rage",
+            "year": "1977"
+        }, {
+            "polish title": "Wielki marsz",
+            "title": "The Long Walk",
+            "year": "1979"
+        }, {
+            "polish title": "Ostatni bastion Barta Dawesa",
+            "title": "Roadwork",
+            "year": "1981"
+        }, {
+            "polish title": "Uciekinier",
+            "title": "The Running Man",
+            "year": "1982"
+        }, {
+            "polish title": "Chudszy",
+            "title": "Thinner",
+            "year": "1984"
+        }, {
+            "polish title": "Regulatorzy",
+            "title": "Regulators",
+            "year": "1996"
+        }, {
+            "title": "Blaze",
+            "year": "2007"
         }
     ]
 }
