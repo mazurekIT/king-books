@@ -19,10 +19,10 @@ const Dashboard = () => {
 					<img src="images/question-marks3.png" alt="" />
 					<h2>What next!</h2>
 				</div>
-				<div className="link">
+				{/* <div className="link">
 					<img src="images/magnifying-glass.png" alt="" />
 					<input type="text" placeholder="search book" />
-				</div>
+				</div> */}
 			</div>
 
 			<div className="pro">

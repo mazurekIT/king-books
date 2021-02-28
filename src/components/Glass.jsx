@@ -1,11 +1,11 @@
 import Dashboard from "./Dashboard.jsx";
-import Books from "./Books.jsx";
+import BooksList from "./BooksList.jsx";
 
 const Glass = () => {
 	return (
 		<section className="glass">
 			<Dashboard></Dashboard>
-			<Books></Books>
+			<BooksList></BooksList>
 		</section>
 	);
 };

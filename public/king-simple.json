@@ -1,366 +1,364 @@
 {
-    "Stephen King": {
-        "books": [{
-                "title": "Carrie",
-                "year": "1974"
-            }, {
-                "polish title": "Miasteczko Salem",
-                "title": "Salem’s Lot",
-                "year": "1975"
-            }, {
-                "polish title": "Lśnienie",
-                "second polish title": "Jasność",
-                "title": "The Shining",
-                "year": "1977"
-            }, {
-                "polish title": "Bastion",
-                "title": "The Stand",
-                "year": "1978"
-            }, {
-                "polish title": "Martwa strefa",
-                "second polish title": "Strefa śmierci",
-                "title": "The Dead Zone",
-                "year": "1979"
-            }, {
-                "polish title": "Podpalaczka",
-                "title": "Firestarter",
-                "year": "1980"
-            }, {
-                "title": "Cujo",
-                "year": "1981"
-            }, {
-                "polish title": "Mroczna Wieża I: Roland",
-                "title": "The Dark Tower: The Gunslinger",
-                "year": "1982"
-            }, {
-                "title": "Christine",
-                "year": "1983"
-            }, {
-                "polish title": "year wilkołaka",
-                "title": "Cycle of the Werewolf",
-                "year": "1983"
-            }, {
-                "polish title": "Smętarz dla zwierzaków",
-                "second polish title": "Cmętarz zwieżąt",
-                "title": "Pet Sematary",
-                "year": "1983"
-            }, {
-                "polish title": "Talizman",
-                "title": "The Talisman",
-                "co-author": "Peter Straub",
-                "year": "1984"
-            }, {
-                "polish title": "To",
-                "title": "It",
-                "year": "1986"
-            }, {
-                "polish title": "Mroczna Wieża II: Powołanie trójki",
-                "title": "The Dark Tower: Drawing of the Three",
-                "year": "1987"
-            }, {
-                "polish title": "Oczy smoka",
-                "title": "Eyes of the Dragon",
-                "year": "1987"
-            }, {
-                "polish title": "Stukostrachy",
-                "title": "The Tommyknockers",
-                "year": "1987"
-            }, {
-                "title": "Misery",
-                "year": "1987"
-            }, {
-                "polish title": "Mroczna połowa",
-                "title": "The Dark Half",
-                "year": "1989"
-            }, {
-                "polish title": "Bastion",
-                "description": "Wersja bez skrótów",
-                "year": "1990"
-            }, {
-                "polish title": "Mroczna Wieża III: Ziemie jałowe",
-                "title": "The Dark Tower: The Waste Lands",
-                "year": "1991"
-            }, {
-                "polish title": "Sklepik z marzeniami",
-                "title": "The Needful Things",
-                "year": "1991"
-            }, {
-                "polish title": "Gra Geralda",
-                "title": "Gerald’s Game",
-                "year": "1992"
-            }, {
-                "title": "Dolores Claiborne",
-                "year": "1993"
-            }, {
-                "polish title": "Bezsenność",
-                "title": "Insomnia",
-                "year": "1994"
-            }, {
-                "title": "Rose Madder",
-                "year": "1995"
-            }, {
-                "polish title": "Zielona mila",
-                "title": "The Green Mile",
-                "description": "książka wydana została również w sześciu osobnych tomach",
-                "year": "1996"
-            }, {
-                "polish title": "Desperacja",
-                "title": "Desperation",
-                "year": "1996"
-            }, {
-                "polish title": "Mroczna Wieża IV: Czarnoksiężnik i kryształ",
-                "title": "The Dark Tower: Wizard & Glass",
-                "year": "1997"
-            }, {
-                "polish title": "Worek kości",
-                "title": "Bag of Bones",
-                "year": "1998"
-            }, {
-                "polish title": "Pokochała Toma Gordona",
-                "title": "The Girl who Loved Tom Gordon",
-                "year": "1999"
-            }, {
-                "polish title": "Łowca snów",
-                "title": "Dreamcatcher",
-                "year": "2001"
-            }, {
-                "polish title": "Czarny Dom",
-                "co-author": "Peter Straub",
-                "title": "Black House",
-                "year": "2001"
-            }, {
-                "polish title": "The Plant",
-                "description": "Powieść wydana w internecie",
-                "year": "2000-2001"
-            }, {
-                "polish title": "Buick 8",
-                "title": "From a Buick 8",
-                "year": "2002"
-            }, {
-                "polish title": "Mroczna Wieża I: Roland",
-                "description": "wersja 2003",
-                "title": "The Dark Tower: The Gunslinger",
-                "year": "2003"
-            }, {
-                "polish title": "Mroczna Wieża V: Wilki z Calla",
-                "title": "The Dark Tower: Wolves of the Calla",
-                "year": "2003"
-            }, {
-                "polish title": "Mroczna Wieża VI: Pieśń Susannah",
-                "title": "The Dark Tower: The Song of Susannah",
-                "year": "2004"
-            }, {
-                "polish title": "Mroczna Wieża VII: Mroczna Wieża",
-                "title": "The Dark Tower: The Dark Tower",
-                "year": "2004"
-            }, {
-                "polish title": "Colorado Kid",
-                "title": "The Colorado Kid",
-                "year": "2005"
-            }, {
-                "polish title": "Miasteczko Salem",
-                "description": "nowa wersja",
-                "title": "Salem’s Lot",
-                "year": "2005"
-            }, {
-                "polish title": "Komórka",
-                "title": "Cell",
-                "year": "2006"
-            }, {
-                "polish title": "Historia Lisey",
-                "title": "Lisey’s Story",
-                "year": "2006"
-            }, {
-                "polish title": "Ręka mistrza",
-                "title": "Duma Key",
-                "year": "2008"
-            }, {
-                "polish title": "Pod kopułą",
-                "title": "Under The Dome",
-                "year": "2009"
-            }, {
-                "polish title": "Dallas ’63",
-                "title": "11/22/63",
-                "year": "2011"
-            }, {
-                "polish title": "Mroczna Wieża VIII: Wiatr przez dziurkę od klucza",
-                "title": "The Dark Tower: The Wind Through the Keyhole",
-                "year": "2012"
-            }, {
-                "title": "Joyland",
-                "year": "2013"
-            }, {
-                "polish title": "Doktor Sen",
-                "title": "Dr. Sleep",
-                "year": "2013"
-            }, {
-                "polish title": "Pan Mercedes",
-                "title": "Mr. Mercedes",
-                "description": "pierwsza część cyklu o Billu Hodgesie",
-                "year": "2014"
-            }, {
-                "polish title": "Przebudzenie",
-                "title": "Revival",
-                "year": "2014"
-            }, {
-                "polish title": "Znalezione nie kradzione",
-                "title": "Finders Keepers",
-                "description": "druga część cyklu o Billu Hodgesie",
-                "year": "2015"
-            }, {
-                "polish title": "Koniec warty",
-                "title": "End of Watch",
-                "description": "trzecia i ostatnia część cyklu o Billu Hodgesie",
-                "year": "2016"
-            }, {
-                "polish title": "Pudełko z guzikami Gwendy",
-                "title": "Gwendy's Button Box",
-                "co-author": "Richard Chizmar",
-                "year": "2017"
-            }, {
-                "polish title": "Śpiące królewny",
-                "co-author": "Owen King",
-                "year": "2017"
-            }, {
-                "polish title": "Outsider",
-                "title": "The Outsider",
-                "year": "2018"
-            }, {
-                "polish title": "Uniesienie",
-                "title": "Elevation",
-                "year": "2018"
-            }, {
-                "polish title": "Instytut",
-                "title": "The Institute",
-                "year": "2019"
-            }, {
-                "polish title": "Later",
-                "year": "2021"
-            }, {
-                "polish title": "The Bachman Books",
-                "year": "1985"
-            },
-            {
-                "polish title": "Nocna zmiana",
-                "title": "Night Shift",
-                "year": "1978"
-            },
-            {
-                "polish title": "Cztery pory yearu",
-                "title": "Different Seasons",
-                "year": "1982"
-            },
-            {
-                "polish title": "Szkieletowa załoga",
-                "title": "Skeleton Crew",
-                "year": "1985"
-            },
-            {
-                "polish title": "Czwarta po północy",
-                "title": "Four past Midnight",
-                "year": "1990"
-            },
-            {
-                "polish title": "Marzenia i koszmary",
-                "title": "Nightmares and Dreamscapes",
-                "year": "1993"
-            },
-            {
-                "polish title": "Serca Atlantydów",
-                "title": "Hearts in Atlantis",
-                "year": "1999"
-            },
-            {
-                "polish title": "Wszystko jest względne. 14 mrocznych opowieści",
-                "title": "Everything’s Eventual: 14 Dark Tales",
-                "year": "2002"
-            },
-            {
-                "polish title": "Po zachodzie słońca",
-                "title": "Just After Sunset",
-                "year": "2008"
-            },
-            {
-                "polish title": "Czarna bezgwiezdna noc",
-                "title": "Full Dark, No Stars",
-                "year": "2010"
-            },
-            {
-                "polish title": "Bazar złych snów",
-                "title": "The Bazaar of Bad Dreams",
-                "year": "2015"
-            },
-            {
-                "polish title": "Jest krew...",
-                "title": "If It Bleeds",
-                "year": "2020"
-            }, {
-                "title": "People, Places, and Things",
-                "co-author": "Chris Chelsey",
-                "year": "1963"
-            },
-            {
-                "title": "The Star Invaders",
-                "year": "1964"
-            },
-            {
-                "title": "My Pretty Pony",
-                "year": "1988"
-            },
-            {
-                "title": "Dolan’s Cadillac",
-                "year": "1989"
-            },
-            {
-                "title": "Umney’s Last Case",
-                "year": "1995"
-            },
-            {
-                "title": "Six Stories",
-                "year": "1997"
-            }, {
-                "title": "Danse Macabre",
-                "year": "1980"
-            },
-            {
-                "polish title": "Jak pisać. Pamiętnik rzemieślnika",
-                "title": "On Writing: a memoir of the craft",
-                "year": "2000"
-            },
-            {
-                "title": "Faithful: Two Diehard Boston Red Sox Fans Chronicle the Historic ",
-                "year": "2004"
-            }
-        ]
-    },
-    "Richard Bachmann": {
-        "books": [{
-            "title": "Rage",
+
+    "books": [{
+            "title": "Carrie",
+            "year": "1974"
+        }, {
+            "polish title": "Miasteczko Salem",
+            "title": "Salem’s Lot",
+            "year": "1975"
+        }, {
+            "polish title": "Lśnienie",
+            "second polish title": "Jasność",
+            "title": "The Shining",
             "year": "1977"
         }, {
-            "polish title": "Wielki marsz",
-            "title": "The Long Walk",
+            "polish title": "Bastion",
+            "title": "The Stand",
+            "year": "1978"
+        }, {
+            "polish title": "Martwa strefa",
+            "second polish title": "Strefa śmierci",
+            "title": "The Dead Zone",
             "year": "1979"
         }, {
-            "polish title": "Ostatni bastion Barta Dawesa",
-            "title": "Roadwork",
+            "polish title": "Podpalaczka",
+            "title": "Firestarter",
+            "year": "1980"
+        }, {
+            "title": "Cujo",
             "year": "1981"
         }, {
-            "polish title": "Uciekinier",
-            "title": "The Running Man",
+            "polish title": "Mroczna Wieża I: Roland",
+            "title": "The Dark Tower: The Gunslinger",
             "year": "1982"
         }, {
-            "polish title": "Chudszy",
-            "title": "Thinner",
+            "title": "Christine",
+            "year": "1983"
+        }, {
+            "polish title": "year wilkołaka",
+            "title": "Cycle of the Werewolf",
+            "year": "1983"
+        }, {
+            "polish title": "Smętarz dla zwierzaków",
+            "second polish title": "Cmętarz zwieżąt",
+            "title": "Pet Sematary",
+            "year": "1983"
+        }, {
+            "polish title": "Talizman",
+            "title": "The Talisman",
+            "co-author": "Peter Straub",
             "year": "1984"
         }, {
-            "polish title": "Regulatorzy",
-            "title": "Regulators",
+            "polish title": "To",
+            "title": "It",
+            "year": "1986"
+        }, {
+            "polish title": "Mroczna Wieża II: Powołanie trójki",
+            "title": "The Dark Tower: Drawing of the Three",
+            "year": "1987"
+        }, {
+            "polish title": "Oczy smoka",
+            "title": "Eyes of the Dragon",
+            "year": "1987"
+        }, {
+            "polish title": "Stukostrachy",
+            "title": "The Tommyknockers",
+            "year": "1987"
+        }, {
+            "title": "Misery",
+            "year": "1987"
+        }, {
+            "polish title": "Mroczna połowa",
+            "title": "The Dark Half",
+            "year": "1989"
+        }, {
+            "polish title": "Bastion",
+            "description": "Wersja bez skrótów",
+            "year": "1990"
+        }, {
+            "polish title": "Mroczna Wieża III: Ziemie jałowe",
+            "title": "The Dark Tower: The Waste Lands",
+            "year": "1991"
+        }, {
+            "polish title": "Sklepik z marzeniami",
+            "title": "The Needful Things",
+            "year": "1991"
+        }, {
+            "polish title": "Gra Geralda",
+            "title": "Gerald’s Game",
+            "year": "1992"
+        }, {
+            "title": "Dolores Claiborne",
+            "year": "1993"
+        }, {
+            "polish title": "Bezsenność",
+            "title": "Insomnia",
+            "year": "1994"
+        }, {
+            "title": "Rose Madder",
+            "year": "1995"
+        }, {
+            "polish title": "Zielona mila",
+            "title": "The Green Mile",
+            "description": "książka wydana została również w sześciu osobnych tomach",
             "year": "1996"
         }, {
-            "title": "Blaze",
-            "year": "2007"
-        }]
+            "polish title": "Desperacja",
+            "title": "Desperation",
+            "year": "1996"
+        }, {
+            "polish title": "Mroczna Wieża IV: Czarnoksiężnik i kryształ",
+            "title": "The Dark Tower: Wizard & Glass",
+            "year": "1997"
+        }, {
+            "polish title": "Worek kości",
+            "title": "Bag of Bones",
+            "year": "1998"
+        }, {
+            "polish title": "Pokochała Toma Gordona",
+            "title": "The Girl who Loved Tom Gordon",
+            "year": "1999"
+        }, {
+            "polish title": "Łowca snów",
+            "title": "Dreamcatcher",
+            "year": "2001"
+        }, {
+            "polish title": "Czarny Dom",
+            "co-author": "Peter Straub",
+            "title": "Black House",
+            "year": "2001"
+        }, {
+            "polish title": "The Plant",
+            "description": "Powieść wydana w internecie",
+            "year": "2000-2001"
+        }, {
+            "polish title": "Buick 8",
+            "title": "From a Buick 8",
+            "year": "2002"
+        }, {
+            "polish title": "Mroczna Wieża I: Roland",
+            "description": "wersja 2003",
+            "title": "The Dark Tower: The Gunslinger",
+            "year": "2003"
+        }, {
+            "polish title": "Mroczna Wieża V: Wilki z Calla",
+            "title": "The Dark Tower: Wolves of the Calla",
+            "year": "2003"
+        }, {
+            "polish title": "Mroczna Wieża VI: Pieśń Susannah",
+            "title": "The Dark Tower: The Song of Susannah",
+            "year": "2004"
+        }, {
+            "polish title": "Mroczna Wieża VII: Mroczna Wieża",
+            "title": "The Dark Tower: The Dark Tower",
+            "year": "2004"
+        }, {
+            "polish title": "Colorado Kid",
+            "title": "The Colorado Kid",
+            "year": "2005"
+        }, {
+            "polish title": "Miasteczko Salem",
+            "description": "nowa wersja",
+            "title": "Salem’s Lot",
+            "year": "2005"
+        }, {
+            "polish title": "Komórka",
+            "title": "Cell",
+            "year": "2006"
+        }, {
+            "polish title": "Historia Lisey",
+            "title": "Lisey’s Story",
+            "year": "2006"
+        }, {
+            "polish title": "Ręka mistrza",
+            "title": "Duma Key",
+            "year": "2008"
+        }, {
+            "polish title": "Pod kopułą",
+            "title": "Under The Dome",
+            "year": "2009"
+        }, {
+            "polish title": "Dallas ’63",
+            "title": "11/22/63",
+            "year": "2011"
+        }, {
+            "polish title": "Mroczna Wieża VIII: Wiatr przez dziurkę od klucza",
+            "title": "The Dark Tower: The Wind Through the Keyhole",
+            "year": "2012"
+        }, {
+            "title": "Joyland",
+            "year": "2013"
+        }, {
+            "polish title": "Doktor Sen",
+            "title": "Dr. Sleep",
+            "year": "2013"
+        }, {
+            "polish title": "Pan Mercedes",
+            "title": "Mr. Mercedes",
+            "description": "pierwsza część cyklu o Billu Hodgesie",
+            "year": "2014"
+        }, {
+            "polish title": "Przebudzenie",
+            "title": "Revival",
+            "year": "2014"
+        }, {
+            "polish title": "Znalezione nie kradzione",
+            "title": "Finders Keepers",
+            "description": "druga część cyklu o Billu Hodgesie",
+            "year": "2015"
+        }, {
+            "polish title": "Koniec warty",
+            "title": "End of Watch",
+            "description": "trzecia i ostatnia część cyklu o Billu Hodgesie",
+            "year": "2016"
+        }, {
+            "polish title": "Pudełko z guzikami Gwendy",
+            "title": "Gwendy's Button Box",
+            "co-author": "Richard Chizmar",
+            "year": "2017"
+        }, {
+            "polish title": "Śpiące królewny",
+            "co-author": "Owen King",
+            "year": "2017"
+        }, {
+            "polish title": "Outsider",
+            "title": "The Outsider",
+            "year": "2018"
+        }, {
+            "polish title": "Uniesienie",
+            "title": "Elevation",
+            "year": "2018"
+        }, {
+            "polish title": "Instytut",
+            "title": "The Institute",
+            "year": "2019"
+        }, {
+            "polish title": "Later",
+            "year": "2021"
+        }, {
+            "polish title": "The Bachman Books",
+            "year": "1985"
+        },
+        {
+            "polish title": "Nocna zmiana",
+            "title": "Night Shift",
+            "year": "1978"
+        },
+        {
+            "polish title": "Cztery pory yearu",
+            "title": "Different Seasons",
+            "year": "1982"
+        },
+        {
+            "polish title": "Szkieletowa załoga",
+            "title": "Skeleton Crew",
+            "year": "1985"
+        },
+        {
+            "polish title": "Czwarta po północy",
+            "title": "Four past Midnight",
+            "year": "1990"
+        },
+        {
+            "polish title": "Marzenia i koszmary",
+            "title": "Nightmares and Dreamscapes",
+            "year": "1993"
+        },
+        {
+            "polish title": "Serca Atlantydów",
+            "title": "Hearts in Atlantis",
+            "year": "1999"
+        },
+        {
+            "polish title": "Wszystko jest względne. 14 mrocznych opowieści",
+            "title": "Everything’s Eventual: 14 Dark Tales",
+            "year": "2002"
+        },
+        {
+            "polish title": "Po zachodzie słońca",
+            "title": "Just After Sunset",
+            "year": "2008"
+        },
+        {
+            "polish title": "Czarna bezgwiezdna noc",
+            "title": "Full Dark, No Stars",
+            "year": "2010"
+        },
+        {
+            "polish title": "Bazar złych snów",
+            "title": "The Bazaar of Bad Dreams",
+            "year": "2015"
+        },
+        {
+            "polish title": "Jest krew...",
+            "title": "If It Bleeds",
+            "year": "2020"
+        }, {
+            "title": "People, Places, and Things",
+            "co-author": "Chris Chelsey",
+            "year": "1963"
+        },
+        {
+            "title": "The Star Invaders",
+            "year": "1964"
+        },
+        {
+            "title": "My Pretty Pony",
+            "year": "1988"
+        },
+        {
+            "title": "Dolan’s Cadillac",
+            "year": "1989"
+        },
+        {
+            "title": "Umney’s Last Case",
+            "year": "1995"
+        },
+        {
+            "title": "Six Stories",
+            "year": "1997"
+        }, {
+            "title": "Danse Macabre",
+            "year": "1980"
+        },
+        {
+            "polish title": "Jak pisać. Pamiętnik rzemieślnika",
+            "title": "On Writing: a memoir of the craft",
+            "year": "2000"
+        },
+        {
+            "title": "Faithful: Two Diehard Boston Red Sox Fans Chronicle the Historic ",
+            "year": "2004"
+        }, {
+            "books": [{
+                "title": "Rage",
+                "year": "1977"
+            }, {
+                "polish title": "Wielki marsz",
+                "title": "The Long Walk",
+                "year": "1979"
+            }, {
+                "polish title": "Ostatni bastion Barta Dawesa",
+                "title": "Roadwork",
+                "year": "1981"
+            }, {
+                "polish title": "Uciekinier",
+                "title": "The Running Man",
+                "year": "1982"
+            }, {
+                "polish title": "Chudszy",
+                "title": "Thinner",
+                "year": "1984"
+            }, {
+                "polish title": "Regulatorzy",
+                "title": "Regulators",
+                "year": "1996"
+            }, {
+                "title": "Blaze",
+                "year": "2007"
+            }]
 
-    }
+        }
+    ]
 }
